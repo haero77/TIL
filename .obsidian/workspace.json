@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "a23ec4abba786c15",
+    "type": "split",
+    "children": [
+      {
+        "id": "35c2742ff72f480d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46a6bdc8dd6c901e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Java/test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b01fbf4305c6a7f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dbc7273143e9195",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c22b7bcde80a9955",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a9d36666c06cbd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c9954c39d85d71f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30291508a6475a0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0795ff6d0a8c15a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1e86a8fd1ea695b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Java/test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c43b2de721d224b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Java/test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "360f7e925e53b1ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1046c53951e9972f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Java/test.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "46a6bdc8dd6c901e",
+  "lastOpenFiles": [
+    "README.md",
+    "05 JPA",
+    "03 Test Code",
+    "01 Java/_Index_of_01 Java.md",
+    "01 Java/test.md",
+    "00 Posting/Java.md",
+    "04 Spring",
+    "02 OOP",
+    "01 Java",
+    "_Index_of_Today-I-Learned.md",
+    "00 Posting/_Index_of_00 Posting.md",
+    "00 Posting",
+    "Attachments"
+  ]
+}
