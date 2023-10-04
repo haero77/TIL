@@ -1,1 +1,11 @@
-{}
+{
+  "workspace:goto-tab-1": [],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ]
+}

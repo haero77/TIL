@@ -1,4 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "monospaceFontFamily": "D2Coding ligature",
+  "baseFontSize": 16,
+  "textFontFamily": "Apple Braille"
 }

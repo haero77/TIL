@@ -1,4 +1,5 @@
 [
-  "zoottelkeeper-obsidian-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-version-history-diff",
+  "hotkeysplus-obsidian"
 ]
