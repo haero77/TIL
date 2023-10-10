@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Attachments",
+  "attachmentFolderPath": "./attachments",
   "promptDelete": false,
   "spellcheck": false,
   "pdfExportSettings": {
@@ -9,5 +9,8 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative"
 }

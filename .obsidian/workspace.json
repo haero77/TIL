@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.51103591918945
+    "width": 319.51103591918945
   },
   "right": {
     "id": "30291508a6475a0c",
@@ -148,14 +148,23 @@
   },
   "active": "e1a6ee0cf2048904",
   "lastOpenFiles": [
+    "00 Posting/JPA/attachments/Pasted image 20231011060209.png",
+    "00 Posting/JPA/attachments/Pasted image 20231011060140.png",
+    "00 Posting/JPA/attachments/Pasted image 20231011060117.png",
+    "00 Posting/JPA/attachments/Pasted image 20231011060047.png",
+    "00 Posting/JPA/attachments/Pasted image 20231011055914.png",
+    "00 Posting/JPA/attachments/Pasted image 20231011055310.png",
+    "00 Posting/JPA/양방향 연관 관계 매핑을 쓰지 말아야겠다고 다짐했다.md",
+    "00 Posting/JPA/attachments/Pasted image 20231011055357.png",
+    "attachments%2FPasted image 20231011055310.png.md",
+    "00 Posting/JPA/attachments",
+    "Attachments/Pasted image 20231003173213.png",
     "Attachments/Pasted image 20231011054625.png",
     "Attachments/Pasted image 20231011053944.png",
     "Attachments/Pasted image 20231011053922.png",
-    "Attachments/Pasted image 20231011053829.png",
     "20 FE/무제 폴더",
     "20 FE",
     "00 Posting/Java/롬복 @Builder의 동작 원리.md",
-    "00 Posting/JPA/양방향 연관 관계 매핑을 쓰지 말아야겠다고 다짐했다.md",
     "10 Git/Tips/프로젝트 별로 Code Author 다르게 설정하기.md",
     "README.md",
     "Readme.md",
@@ -167,8 +176,6 @@
     "02 OOP/객체 지향의 사실과 오해/ch01. 협력하는 객체들의 공동체.md",
     "02 OOP/객체 지향의 사실과 오해/무제 폴더",
     "02 OOP/객체 지향의 사실과 오해",
-    "Attachments/Pasted image 20231004180740.png",
-    "Attachments/Pasted image 20231003173213.png",
     "00 Posting/JPA",
     "01 Java/test.md",
     "무제 파일 2.md",
@@ -180,9 +187,6 @@
     "00 Posting/Java.md",
     "00 Posting/Java",
     "00 Posting/무제 파일 1.md",
-    "Attachments/Pasted image 20231003172619.png",
-    "Attachments/Pasted image 20231003172557.png",
-    "05 JPA",
-    "03 Test Code"
+    "05 JPA"
   ]
 }
