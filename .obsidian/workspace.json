@@ -11,24 +11,64 @@
             "id": "1418e9e42648ed6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00 Posting/Java/롬복 @Builder의 동작 원리.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "4e090ca2b1031895",
+            "id": "f974798c8034f1cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Posting/Java/@Builder의 동작 원리.md",
+                "file": "00 Posting/JPA/양방향 매핑.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f52c62a0e5cea74d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 Git/Tips/프로젝트 별로 Code Author 다르게 설정하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1a6ee0cf2048904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 Git/Tips/프로젝트 별로 Code Author 다르게 설정하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7dcb489efa8ee0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 OOP/객체 지향의 사실과 오해/ch01. 협력하는 객체들의 공동체.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 333.51103591918945
   },
   "right": {
     "id": "30291508a6475a0c",
@@ -94,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Posting/Java/@Builder의 동작 원리.md",
+                "file": "10 Git/Tips/프로젝트 별로 Code Author 다르게 설정하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Posting/Java/@Builder의 동작 원리.md",
+                "file": "10 Git/Tips/프로젝트 별로 Code Author 다르게 설정하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Posting/Java/@Builder의 동작 원리.md"
+                "file": "10 Git/Tips/프로젝트 별로 Code Author 다르게 설정하기.md"
               }
             }
           }
@@ -155,13 +195,26 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c22b7bcde80a9955",
+  "active": "e1a6ee0cf2048904",
   "lastOpenFiles": [
+    "README.md",
+    "Readme.md",
+    "무제 파일.md",
+    "10 Git/Tips",
+    "10 Git/Tips/프로젝트 별로 Code Author 다르게 설정하기.md",
+    "00 Posting/JPA/양방향 매핑.md",
+    "10 Git",
+    "00 Posting/Java/@Builder를 클래스가 아닌 생성자에 써야하는 이유.md",
+    "00 Posting/Java/롬복 @Builder의 동작 원리.md",
+    "00 Posting/Java/JSON 필드로 boolean 타입은 적절치 않다고 생각하는 이유.md",
+    "02 OOP/객체 지향의 사실과 오해/ch01. 협력하는 객체들의 공동체.md",
+    "02 OOP/객체 지향의 사실과 오해/무제 폴더",
+    "02 OOP/객체 지향의 사실과 오해",
+    "Attachments/Pasted image 20231004180740.png",
+    "Attachments/Pasted image 20231003173213.png",
     "00 Posting/JPA",
     "01 Java/test.md",
-    "00 Posting/Java/@Builder의 동작 원리.md",
     "무제 파일 2.md",
-    "00 Posting/Java/@Builder를 클래스가 아닌 생성자에 써야하는 이유.md",
     "무제 파일 1.md",
     "01 Java/_Index_of_01 Java.md",
     "_Index_of_Today-I-Learned.md",
@@ -170,17 +223,11 @@
     "00 Posting/Java.md",
     "00 Posting/Java",
     "00 Posting/무제 파일 1.md",
-    "무제 파일.md",
-    "Attachments/Pasted image 20231003173213.png",
-    "README.md",
     "Attachments/Pasted image 20231003172619.png",
     "Attachments/Pasted image 20231003172557.png",
     "05 JPA",
     "03 Test Code",
     "04 Spring",
-    "02 OOP",
-    "01 Java",
-    "00 Posting",
-    "Attachments"
+    "02 OOP"
   ]
 }

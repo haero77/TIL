@@ -1,6 +1,12 @@
 {
   "workspace:goto-tab-1": [],
-  "file-explorer:open": [
+  "file-explorer:move-file": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ],
+  "file-explorer:reveal-active-file": [
     {
       "modifiers": [
         "Mod"
