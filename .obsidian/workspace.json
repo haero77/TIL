@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Posting/JPA/양방향 연관 관계 매핑을 쓰지 말아야겠다고 다짐했다.md",
+                "file": "00 Posting/JPA/양방향 연관 관계는 쓰지 말아야겠다고 다짐했다.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Posting/JPA/양방향 연관 관계 매핑을 쓰지 말아야겠다고 다짐했다.md",
+                "file": "00 Posting/JPA/양방향 연관 관계는 쓰지 말아야겠다고 다짐했다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Posting/JPA/양방향 연관 관계 매핑을 쓰지 말아야겠다고 다짐했다.md",
+                "file": "00 Posting/JPA/양방향 연관 관계는 쓰지 말아야겠다고 다짐했다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Posting/JPA/양방향 연관 관계 매핑을 쓰지 말아야겠다고 다짐했다.md"
+                "file": "00 Posting/JPA/양방향 연관 관계는 쓰지 말아야겠다고 다짐했다.md"
               }
             }
           }
@@ -148,20 +148,22 @@
   },
   "active": "e1a6ee0cf2048904",
   "lastOpenFiles": [
+    "00 Posting/JPA/attachments/Pasted image 20231011083954.png",
+    "00 Posting/JPA/attachments/Pasted image 20231011074810.png",
+    "00 Posting/JPA/attachments/Pasted image 20231011055357.png",
     "00 Posting/JPA/attachments/Pasted image 20231011060209.png",
+    "00 Posting/JPA/양방향 연관 관계는 쓰지 말아야겠다고 다짐했다.md",
+    "00 Posting/_Index_of_00 Posting.md",
+    "00 Posting/JPA/_Index_of_JPA.md",
     "00 Posting/JPA/attachments/Pasted image 20231011060140.png",
     "00 Posting/JPA/attachments/Pasted image 20231011060117.png",
     "00 Posting/JPA/attachments/Pasted image 20231011060047.png",
     "00 Posting/JPA/attachments/Pasted image 20231011055914.png",
     "00 Posting/JPA/attachments/Pasted image 20231011055310.png",
-    "00 Posting/JPA/양방향 연관 관계 매핑을 쓰지 말아야겠다고 다짐했다.md",
-    "00 Posting/JPA/attachments/Pasted image 20231011055357.png",
     "attachments%2FPasted image 20231011055310.png.md",
     "00 Posting/JPA/attachments",
     "Attachments/Pasted image 20231003173213.png",
     "Attachments/Pasted image 20231011054625.png",
-    "Attachments/Pasted image 20231011053944.png",
-    "Attachments/Pasted image 20231011053922.png",
     "20 FE/무제 폴더",
     "20 FE",
     "00 Posting/Java/롬복 @Builder의 동작 원리.md",
@@ -183,7 +185,6 @@
     "01 Java/_Index_of_01 Java.md",
     "_Index_of_Today-I-Learned.md",
     "00 Posting/Java/_Index_of_Java.md",
-    "00 Posting/_Index_of_00 Posting.md",
     "00 Posting/Java.md",
     "00 Posting/Java",
     "00 Posting/무제 파일 1.md",

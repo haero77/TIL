@@ -13,5 +13,14 @@
       ],
       "key": "1"
     }
+  ],
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "U"
+    }
   ]
 }
