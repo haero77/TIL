@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "de6424a5d96570a7",
+        "id": "2212f1e5e234b7f6",
         "type": "tabs",
         "children": [
           {
-            "id": "b5abf39b2f48844c",
+            "id": "a8e51d18fa120e3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 TIL/23.10.13 금 - 패키지 구조를 뜯어 고치다.md",
+                "file": "01 Java/모던 자바 인 액션/ch04. 스트림 소개.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 TIL/23.10.13 금 - 패키지 구조를 뜯어 고치다.md",
+                "file": "01 Java/모던 자바 인 액션/ch04. 스트림 소개.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 TIL/23.10.13 금 - 패키지 구조를 뜯어 고치다.md",
+                "file": "01 Java/모던 자바 인 액션/ch04. 스트림 소개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 TIL/23.10.13 금 - 패키지 구조를 뜯어 고치다.md"
+                "file": "01 Java/모던 자바 인 액션/ch04. 스트림 소개.md"
               }
             }
           }
@@ -147,17 +147,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b5abf39b2f48844c",
+  "active": "a8e51d18fa120e3d",
   "lastOpenFiles": [
+    "00 Posting/lombok/롬복 @Builder의 동작 원리.md",
+    "00 Posting/Java/toString 메서드 제대로 쓰기.md",
+    "00 Posting/Java/무제 파일.md",
+    "00 Posting/lombok/_Index_of_lombok.md",
+    "00 Posting/lombok",
+    "01 Java/모던 자바 인 액션/ch04. 스트림 소개.md",
+    "00 Posting/JPA/attachments/Pasted image 20231011055310.png",
+    "01 Java/모던 자바 인 액션/무제 파일.md",
+    "00 Posting/Java/왜 inner class 는 static 이어야 할까?.md",
+    "00 Posting/Java/_Index_of_Java.md",
+    "01 Java/모던 자바 인 액션/_Index_of_모던 자바 인 액션.md",
+    "00 Posting/JPA/양방향 연관 관계는 쓰지 말아야겠다고 다짐했다.md",
+    "01 Java/무제 파일.md",
+    "01 Java/_Index_of_01 Java.md",
+    "01 Java/모던 자바 인 액션",
+    "00 TIL/23.10.13 금 - 패키지 구조를 뜯어 고치다.md",
+    "00 Posting/_Index_of_00 Posting.md",
+    "00 Posting/JPA/attachments/Pasted image 20231016141800.png",
+    "00 Posting/JPA/attachments/Pasted image 20231016141707.png",
+    "00 Posting/JPA/attachments/Pasted image 20231016141656.png",
     "00 TIL/23.10.14 토 - .md",
     "00 TIL/(23.10.14 토).md",
-    "00 TIL/23.10.13 금 - 패키지 구조를 뜯어 고치다.md",
     "00 TIL/attachments/Pasted image 20231014172143.png",
     "00 TIL/attachments",
     "00 TIL/_Index_of_00 TIL.md",
-    "00 Posting/JPA/양방향 연관 관계는 쓰지 말아야겠다고 다짐했다.md",
     "00 TIL",
-    "00 Posting/JPA/attachments/Pasted image 20231011055310.png",
     "attachments/Pasted image 20231011060140.png.md",
     "_Index_of_Today-I-Learned.md",
     "Attachments/_Index_of_Attachments.md",
@@ -171,29 +188,12 @@
     "00 Posting/JPA/attachments/Pasted image 20231011074810.png",
     "00 Posting/JPA/attachments/Pasted image 20231011055357.png",
     "00 Posting/JPA/attachments/Pasted image 20231011060209.png",
-    "00 Posting/_Index_of_00 Posting.md",
     "00 Posting/JPA/_Index_of_JPA.md",
     "00 Posting/JPA/attachments/Pasted image 20231011060140.png",
-    "00 Posting/JPA/attachments/Pasted image 20231011060117.png",
-    "00 Posting/JPA/attachments/Pasted image 20231011060047.png",
-    "00 Posting/JPA/attachments/Pasted image 20231011055914.png",
     "attachments%2FPasted image 20231011055310.png.md",
     "00 Posting/JPA/attachments",
     "20 FE/무제 폴더",
     "20 FE",
-    "00 Posting/Java/롬복 @Builder의 동작 원리.md",
-    "10 Git/Tips/프로젝트 별로 Code Author 다르게 설정하기.md",
-    "README.md",
-    "Readme.md",
-    "무제 파일.md",
-    "10 Git/Tips",
-    "10 Git",
-    "00 Posting/Java/@Builder를 클래스가 아닌 생성자에 써야하는 이유.md",
-    "00 Posting/Java/JSON 필드로 boolean 타입은 적절치 않다고 생각하는 이유.md",
-    "02 OOP/객체 지향의 사실과 오해/ch01. 협력하는 객체들의 공동체.md",
-    "02 OOP/객체 지향의 사실과 오해/무제 폴더",
-    "01 Java/test.md",
-    "무제 파일 2.md",
-    "무제 파일 1.md"
+    "10 Git/Tips"
   ]
 }
