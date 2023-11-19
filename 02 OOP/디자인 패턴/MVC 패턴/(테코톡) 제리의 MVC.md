@@ -38,7 +38,7 @@
 
 - 왜냐하면, 컨틀롤러는 모델과 뷰의 중개자 역할을 하면서 전체 로직을 구성하기 때문
 
-### 5. View가 Model로부터 데이터를 받을 때, 반드시 Controlle에서 받아야한다.
+### 5. View가 Model로부터 데이터를 받을 때, 반드시 Controller에서 받아야한다.
 
 ![500](attachments/Pasted%20image%2020231028204623.png)
 

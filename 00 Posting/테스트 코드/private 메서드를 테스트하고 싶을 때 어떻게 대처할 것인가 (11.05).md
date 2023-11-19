@@ -1,4 +1,7 @@
 
+#테스트코드 #private
+
+
 ![](attachments/private_메서드를_테스트하고_싶을_때.png)
 
 
