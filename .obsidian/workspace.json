@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Posting/테스트 코드/실습과 그림으로 이해하는 코드 커버리지(Code Coverage) feat. IntelliJ.md",
+                "file": "99 Seminar/테스트 코드/박재성 - 190425 TDD 리팩토링.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Posting/테스트 코드/실습과 그림으로 이해하는 코드 커버리지(Code Coverage) feat. IntelliJ.md",
+                "file": "99 Seminar/테스트 코드/박재성 - 190425 TDD 리팩토링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Posting/테스트 코드/실습과 그림으로 이해하는 코드 커버리지(Code Coverage) feat. IntelliJ.md",
+                "file": "99 Seminar/테스트 코드/박재성 - 190425 TDD 리팩토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Posting/테스트 코드/실습과 그림으로 이해하는 코드 커버리지(Code Coverage) feat. IntelliJ.md"
+                "file": "99 Seminar/테스트 코드/박재성 - 190425 TDD 리팩토링.md"
               }
             }
           }
@@ -179,18 +179,25 @@
   },
   "active": "8ef2a2a89cf8b45c",
   "lastOpenFiles": [
-    "00 Posting/테스트 코드/attachments/Pasted image 20231119182931.png",
+    "99 Seminar/테스트 코드/attachments/Pasted image 20231121235000.png",
+    "99 Seminar/테스트 코드/attachments/Pasted image 20231121234856.png",
+    "99 Seminar/테스트 코드/attachments/Pasted image 20231121234822.png",
+    "99 Seminar/테스트 코드/attachments/Pasted image 20231121234708.png",
+    "99 Seminar/테스트 코드/attachments/Pasted image 20231121234523.png",
+    "99 Seminar/테스트 코드/attachments/Pasted image 20231121234249.png",
+    "99 Seminar/테스트 코드/attachments/Pasted image 20231121233755.png",
+    "99 Seminar/테스트 코드/attachments/Pasted image 20231121233738.png",
+    "99 Seminar/테스트 코드/attachments/Pasted image 20231121233729.png",
+    "99 Seminar/테스트 코드/attachments/Pasted image 20231121233352.png",
+    "99 Seminar/테스트 코드/attachments/Pasted image 20231121233257.png",
+    "99 Seminar/테스트 코드/attachments",
+    "99 Seminar/_Index_of_99 Seminar.md",
+    "99 Seminar/테스트 코드/_Index_of_테스트 코드.md",
     "00 Posting/테스트 코드/실습과 그림으로 이해하는 코드 커버리지(Code Coverage) feat. IntelliJ.md",
-    "00 Posting/테스트 코드/attachments/Pasted image 20231119221515.png",
-    "00 Posting/테스트 코드/attachments/Pasted image 20231119223206.png",
-    "00 Posting/테스트 코드/attachments/스크린샷 2023-11-19 오후 10.28.45.png",
-    "00 Posting/테스트 코드/attachments/Pasted image 20231119220523.png",
-    "00 Posting/테스트 코드/attachments/Pasted image 20231119213638.png",
-    "00 Posting/테스트 코드/attachments/Pasted image 20231119213309.png",
-    "00 Posting/테스트 코드/attachments/스크린샷 2023-11-19 오후 9.30.48.png",
-    "00 Posting/테스트 코드/attachments/Pasted image 20231119212715.png",
-    "00 Posting/테스트 코드/attachments/스크린샷 2023-11-19 오후 9.17.02.png",
-    "00 Posting/테스트 코드/attachments/Pasted image 20231119211648.png",
+    "99 Seminar/테스트 코드/박재성 - 190425 TDD 리팩토링.md",
+    "99 Seminar/테스트/무제 폴더",
+    "99 Seminar/테스트 코드",
+    "99 Seminar",
     "00 Posting/Java/Java) Statement와 Expression.md",
     "00 Posting/JPA/무제 파일 1.md",
     "00 Posting/객체지향/(OOP) 모든 원시값과 문자열을 포장하면 좋은 이유.md",
@@ -216,14 +223,7 @@
     "00 Posting/테스트 코드/attachments",
     "00 Posting/_생각해놓은 주제/제어할 수 없는 코드를 테스트하려면?.md",
     "00 Posting/_생각해놓은 주제/private 메서드를 테스트해야할까.md",
-    "00 Posting/_생각해놓은 주제/@Builder를 클래스가 아닌 생성자에 쓰면 좋은 이유.md",
-    "00 Posting/_생각해놓은 주제/QueryProjection NestedClass.md",
-    "00 Posting/JPA/양방향 연관 관계는 쓰지 말아야겠다고 다짐했다.md",
     "00 Posting/_생각해놓은 주제",
-    "03 Test Code/TDD 세미나 by 범균님/attachments",
-    "03 Test Code/TDD 세미나 by 범균님",
-    "03 Test Code/범균님의 테스트",
-    "02 OOP/디자인 패턴/MVC 패턴/attachments",
-    "02 OOP/디자인 패턴/MVC 패턴"
+    "03 Test Code/TDD 세미나 by 범균님/attachments"
   ]
 }
