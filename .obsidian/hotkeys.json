@@ -22,5 +22,14 @@
       ],
       "key": "U"
     }
+  ],
+  "workspace:goto-tab-3": [],
+  "open-with-default-app:show": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "3"
+    }
   ]
 }

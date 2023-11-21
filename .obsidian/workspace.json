@@ -18,6 +18,36 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0b03158a6fa629b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "00 Posting/테스트 코드/attachments/Pasted image 20231119182931.png"
+              }
+            }
+          },
+          {
+            "id": "ec6791f44dff45df",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "00 Posting/테스트 코드/attachments/Pasted image 20231119221515.png"
+              }
+            }
+          },
+          {
+            "id": "af5206443e44df01",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "00 Posting/테스트 코드/attachments/Pasted image 20231119221515.png"
+              }
+            }
           }
         ]
       }
@@ -149,9 +179,11 @@
   },
   "active": "8ef2a2a89cf8b45c",
   "lastOpenFiles": [
+    "00 Posting/테스트 코드/attachments/Pasted image 20231119182931.png",
+    "00 Posting/테스트 코드/실습과 그림으로 이해하는 코드 커버리지(Code Coverage) feat. IntelliJ.md",
+    "00 Posting/테스트 코드/attachments/Pasted image 20231119221515.png",
     "00 Posting/테스트 코드/attachments/Pasted image 20231119223206.png",
     "00 Posting/테스트 코드/attachments/스크린샷 2023-11-19 오후 10.28.45.png",
-    "00 Posting/테스트 코드/attachments/Pasted image 20231119221515.png",
     "00 Posting/테스트 코드/attachments/Pasted image 20231119220523.png",
     "00 Posting/테스트 코드/attachments/Pasted image 20231119213638.png",
     "00 Posting/테스트 코드/attachments/Pasted image 20231119213309.png",
@@ -159,10 +191,8 @@
     "00 Posting/테스트 코드/attachments/Pasted image 20231119212715.png",
     "00 Posting/테스트 코드/attachments/스크린샷 2023-11-19 오후 9.17.02.png",
     "00 Posting/테스트 코드/attachments/Pasted image 20231119211648.png",
-    "00 Posting/테스트 코드/attachments/Pasted image 20231119211604.png",
     "00 Posting/Java/Java) Statement와 Expression.md",
     "00 Posting/JPA/무제 파일 1.md",
-    "00 Posting/테스트 코드/실습과 그림으로 이해하는 코드 커버리지(Code Coverage) feat. IntelliJ.md",
     "00 Posting/객체지향/(OOP) 모든 원시값과 문자열을 포장하면 좋은 이유.md",
     "10 Git/Tips/Git Pull Request 로컬로 가져오기.md",
     "10 Git/Tips/.md",
