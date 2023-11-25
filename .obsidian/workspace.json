@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 Seminar/테스트 코드/박재성 - 190425 TDD 리팩토링.md",
+                "file": "04 Spring/스프링 고급편/09. 스프링 AOP 개념.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 Seminar/테스트 코드/박재성 - 190425 TDD 리팩토링.md",
+                "file": "04 Spring/스프링 고급편/09. 스프링 AOP 개념.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 Seminar/테스트 코드/박재성 - 190425 TDD 리팩토링.md",
+                "file": "04 Spring/스프링 고급편/09. 스프링 AOP 개념.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 Seminar/테스트 코드/박재성 - 190425 TDD 리팩토링.md"
+                "file": "04 Spring/스프링 고급편/09. 스프링 AOP 개념.md"
               }
             }
           }
@@ -179,6 +179,14 @@
   },
   "active": "8ef2a2a89cf8b45c",
   "lastOpenFiles": [
+    "04 Spring/스프링 고급편/무제 파일.md",
+    "04 Spring/스프링 고급편/09. 스프링 AOP 개념.md",
+    "04 Spring/스프링 고급편/attachments/Pasted image 20231125110843.png",
+    "04 Spring/스프링 고급편/attachments",
+    "04 Spring/스프링 고급편/_Index_of_스프링 고급편.md",
+    "04 Spring/스프링 고급편/무제 폴더",
+    "99 Seminar/테스트 코드/박재성 - 190425 TDD 리팩토링.md",
+    "04 Spring/스프링 고급편",
     "99 Seminar/테스트 코드/attachments/Pasted image 20231121235000.png",
     "99 Seminar/테스트 코드/attachments/Pasted image 20231121234856.png",
     "99 Seminar/테스트 코드/attachments/Pasted image 20231121234822.png",
@@ -188,13 +196,10 @@
     "99 Seminar/테스트 코드/attachments/Pasted image 20231121233755.png",
     "99 Seminar/테스트 코드/attachments/Pasted image 20231121233738.png",
     "99 Seminar/테스트 코드/attachments/Pasted image 20231121233729.png",
-    "99 Seminar/테스트 코드/attachments/Pasted image 20231121233352.png",
-    "99 Seminar/테스트 코드/attachments/Pasted image 20231121233257.png",
     "99 Seminar/테스트 코드/attachments",
     "99 Seminar/_Index_of_99 Seminar.md",
     "99 Seminar/테스트 코드/_Index_of_테스트 코드.md",
     "00 Posting/테스트 코드/실습과 그림으로 이해하는 코드 커버리지(Code Coverage) feat. IntelliJ.md",
-    "99 Seminar/테스트 코드/박재성 - 190425 TDD 리팩토링.md",
     "99 Seminar/테스트/무제 폴더",
     "99 Seminar/테스트 코드",
     "99 Seminar",
@@ -218,12 +223,6 @@
     "02 OOP/객체 지향의 사실과 오해/ch01. 협력하는 객체들의 공동체.md",
     "00 Posting/JPA/BooleanExpression 를 조합할 때 발생하는 NPE 대처하기.md",
     "00 Posting/테스트 코드/private 메서드를 테스트하고 싶을 때 어떻게 대처할 것인가 (11.05).md",
-    "00 Posting/테스트 코드/_Index_of_테스트 코드.md",
-    "02 OOP/객체 지향의 사실과 오해/_Index_of_객체 지향의 사실과 오해.md",
-    "00 Posting/테스트 코드/attachments",
-    "00 Posting/_생각해놓은 주제/제어할 수 없는 코드를 테스트하려면?.md",
-    "00 Posting/_생각해놓은 주제/private 메서드를 테스트해야할까.md",
-    "00 Posting/_생각해놓은 주제",
-    "03 Test Code/TDD 세미나 by 범균님/attachments"
+    "00 Posting/테스트 코드/_Index_of_테스트 코드.md"
   ]
 }
