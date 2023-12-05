@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 OOP/객체 지향의 사실과 오해/ch04. 역할, 책임, 협력.md",
+                "file": "00 Posting/Spring/AOP를 이용하여 로깅용 애노테이션 만들어보기.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 OOP/객체 지향의 사실과 오해/ch04. 역할, 책임, 협력.md",
+                "file": "00 Posting/Spring/AOP를 이용하여 로깅용 애노테이션 만들어보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 OOP/객체 지향의 사실과 오해/ch04. 역할, 책임, 협력.md",
+                "file": "00 Posting/Spring/AOP를 이용하여 로깅용 애노테이션 만들어보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 OOP/객체 지향의 사실과 오해/ch04. 역할, 책임, 협력.md"
+                "file": "00 Posting/Spring/AOP를 이용하여 로깅용 애노테이션 만들어보기.md"
               }
             }
           }
@@ -179,6 +179,17 @@
   },
   "active": "8ef2a2a89cf8b45c",
   "lastOpenFiles": [
+    "00 Posting/Spring/attachments/Pasted image 20231205212458.png",
+    "00 Posting/Spring/attachments/Pasted image 20231205212354.png",
+    "00 Posting/Spring/attachments/Pasted image 20231205212118.png",
+    "03 Test Code/TDD_테스트 주도 개발 시작하기 (범균님)/ch02 TDD 시작.md",
+    "03 Test Code/TDD_테스트 주도 개발 시작하기 (범균님)/attachments/Pasted image 20231203202318.png",
+    "03 Test Code/TDD_테스트 주도 개발 시작하기 (범균님)/attachments",
+    "03 Test Code/TDD_테스트 주도 개발 시작하기 (범균님)/_Index_of_TDD_테스트 주도 개발 시작하기 (범균님).md",
+    "00 Posting/Spring/AOP를 이용하여 로깅용 애노테이션 만들어보기.md",
+    "03 Test Code/TDD_테스트 주도 개발 시작하기 (범균님)",
+    "00 Posting/Spring/attachments/Pasted image 20231202191112.png",
+    "02 OOP/객체 지향의 사실과 오해/ch02. 이상한 나라의 객체.md",
     "99 Seminar/테스트 코드/박재성 - 190425 TDD 리팩토링.md",
     "02 OOP/객체 지향의 사실과 오해/ch04. 역할, 책임, 협력.md",
     "04 Spring/스프링 고급편/09. 스프링 AOP 개념.md",
@@ -193,10 +204,6 @@
     "99 Seminar/테스트 코드/attachments/Pasted image 20231121234822.png",
     "99 Seminar/테스트 코드/attachments/Pasted image 20231121234708.png",
     "99 Seminar/테스트 코드/attachments/Pasted image 20231121234523.png",
-    "99 Seminar/테스트 코드/attachments/Pasted image 20231121234249.png",
-    "99 Seminar/테스트 코드/attachments/Pasted image 20231121233755.png",
-    "99 Seminar/테스트 코드/attachments/Pasted image 20231121233738.png",
-    "99 Seminar/테스트 코드/attachments/Pasted image 20231121233729.png",
     "99 Seminar/테스트 코드/attachments",
     "99 Seminar/_Index_of_99 Seminar.md",
     "99 Seminar/테스트 코드/_Index_of_테스트 코드.md",
@@ -214,16 +221,9 @@
     "03 Test Code/테스트 커버리지/_Index_of_테스트 커버리지.md",
     "04 Spring/무제 파일.md",
     "03 Test Code/테스트 커버리지",
-    "04 Spring/호돌맨의 요절복통 개발쇼",
     "04 Spring/_Index_of_04 Spring.md",
     "02 OOP/디자인 패턴/MVC 패턴/(테코톡) 베루스의 MVC.md",
     "02 OOP/디자인 패턴/MVC 패턴/_Index_of_MVC 패턴.md",
-    "02 OOP/디자인 패턴/MVC 패턴/(테코톡) 제리의 MVC.md",
-    "02 OOP/객체 지향의 사실과 오해/ch02. 이상한 나라의 객체.md",
-    "02 OOP/객체 지향의 사실과 오해/attachments",
-    "02 OOP/객체 지향의 사실과 오해/ch01. 협력하는 객체들의 공동체.md",
-    "00 Posting/JPA/BooleanExpression 를 조합할 때 발생하는 NPE 대처하기.md",
-    "00 Posting/테스트 코드/private 메서드를 테스트하고 싶을 때 어떻게 대처할 것인가 (11.05).md",
-    "00 Posting/테스트 코드/_Index_of_테스트 코드.md"
+    "02 OOP/디자인 패턴/MVC 패턴/(테코톡) 제리의 MVC.md"
   ]
 }
