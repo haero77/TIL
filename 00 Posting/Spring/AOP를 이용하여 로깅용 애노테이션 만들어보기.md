@@ -49,6 +49,7 @@ public @interface LogRequestBody {
 메서드와 클래스 레벨에서 모두 적용할 수 있도록 `@Target`의 value를 `value = {ElementType.METHOD, ElementType.TYPE}` 으로 선언했습니다. 
 
 어노테이션 유지 정책(Retention)의 경우, 컴파일된 바이트코드에서 유지되고 실행 시 JVM에서 사용가능한  `RetentionPolicy.RUNTIME`를 사용했습니다. (일반적으로 많이 사용되는 방법이기도 합니다.)
+
 <br>
 
 ### 애스펙트 선언

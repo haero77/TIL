@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Posting/Spring/AOP를 이용하여 로깅용 애노테이션 만들어보기.md",
+                "file": "03 Test Code/실용적인 테스트 가이드 by 우빈님/7. 더 나은 테스트를 작성하기 위한 구체적 조언.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.51103591918945
+    "width": 295.5026054382324
   },
   "right": {
     "id": "30291508a6475a0c",
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Posting/Spring/AOP를 이용하여 로깅용 애노테이션 만들어보기.md",
+                "file": "03 Test Code/실용적인 테스트 가이드 by 우빈님/7. 더 나은 테스트를 작성하기 위한 구체적 조언.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Posting/Spring/AOP를 이용하여 로깅용 애노테이션 만들어보기.md",
+                "file": "03 Test Code/실용적인 테스트 가이드 by 우빈님/7. 더 나은 테스트를 작성하기 위한 구체적 조언.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Posting/Spring/AOP를 이용하여 로깅용 애노테이션 만들어보기.md"
+                "file": "03 Test Code/실용적인 테스트 가이드 by 우빈님/7. 더 나은 테스트를 작성하기 위한 구체적 조언.md"
               }
             }
           }
@@ -179,6 +179,15 @@
   },
   "active": "8ef2a2a89cf8b45c",
   "lastOpenFiles": [
+    "03 Test Code/실용적인 테스트 가이드 by 우빈님/attachments/Pasted image 20231209182159.png",
+    "03 Test Code/실용적인 테스트 가이드 by 우빈님/attachments/Pasted image 20231209181759.png",
+    "03 Test Code/실용적인 테스트 가이드 by 우빈님/attachments",
+    "03 Test Code/실용적인 테스트 가이드 by 우빈님/6. Mock을 마주하는 자세.md",
+    "03 Test Code/실용적인 테스트 가이드 by 우빈님/7. 더 나은 테스트를 작성하기 위한 구체적 조언.md",
+    "03 Test Code/실용적인 테스트 가이드 by 우빈님/_Index_of_실용적인 테스트 가이드 by 우빈님.md",
+    "00 Posting/Spring/AOP를 이용하여 로깅용 애노테이션 만들어보기.md",
+    "03 Test Code/실용적인 테스트 가이드 by 우빈님",
+    "03 Test Code/우빈님 Practical Testing.md",
     "00 Posting/Spring/attachments/Pasted image 20231205212458.png",
     "00 Posting/Spring/attachments/Pasted image 20231205212354.png",
     "00 Posting/Spring/attachments/Pasted image 20231205212118.png",
@@ -186,7 +195,6 @@
     "03 Test Code/TDD_테스트 주도 개발 시작하기 (범균님)/attachments/Pasted image 20231203202318.png",
     "03 Test Code/TDD_테스트 주도 개발 시작하기 (범균님)/attachments",
     "03 Test Code/TDD_테스트 주도 개발 시작하기 (범균님)/_Index_of_TDD_테스트 주도 개발 시작하기 (범균님).md",
-    "00 Posting/Spring/AOP를 이용하여 로깅용 애노테이션 만들어보기.md",
     "03 Test Code/TDD_테스트 주도 개발 시작하기 (범균님)",
     "00 Posting/Spring/attachments/Pasted image 20231202191112.png",
     "02 OOP/객체 지향의 사실과 오해/ch02. 이상한 나라의 객체.md",
@@ -202,15 +210,12 @@
     "99 Seminar/테스트 코드/attachments/Pasted image 20231121235000.png",
     "99 Seminar/테스트 코드/attachments/Pasted image 20231121234856.png",
     "99 Seminar/테스트 코드/attachments/Pasted image 20231121234822.png",
-    "99 Seminar/테스트 코드/attachments/Pasted image 20231121234708.png",
-    "99 Seminar/테스트 코드/attachments/Pasted image 20231121234523.png",
     "99 Seminar/테스트 코드/attachments",
     "99 Seminar/_Index_of_99 Seminar.md",
     "99 Seminar/테스트 코드/_Index_of_테스트 코드.md",
     "00 Posting/테스트 코드/실습과 그림으로 이해하는 코드 커버리지(Code Coverage) feat. IntelliJ.md",
     "99 Seminar/테스트/무제 폴더",
     "99 Seminar/테스트 코드",
-    "99 Seminar",
     "00 Posting/Java/Java) Statement와 Expression.md",
     "00 Posting/JPA/무제 파일 1.md",
     "00 Posting/객체지향/(OOP) 모든 원시값과 문자열을 포장하면 좋은 이유.md",
@@ -219,11 +224,6 @@
     "10 Git/_Index_of_10 Git.md",
     "10 Git/Tips/_Index_of_Tips.md",
     "03 Test Code/테스트 커버리지/_Index_of_테스트 커버리지.md",
-    "04 Spring/무제 파일.md",
-    "03 Test Code/테스트 커버리지",
-    "04 Spring/_Index_of_04 Spring.md",
-    "02 OOP/디자인 패턴/MVC 패턴/(테코톡) 베루스의 MVC.md",
-    "02 OOP/디자인 패턴/MVC 패턴/_Index_of_MVC 패턴.md",
-    "02 OOP/디자인 패턴/MVC 패턴/(테코톡) 제리의 MVC.md"
+    "04 Spring/무제 파일.md"
   ]
 }

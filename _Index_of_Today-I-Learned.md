@@ -8,6 +8,7 @@
  [[05 JPA/_Index_of_05 JPA|_Index_of_05 JPA]]
  [[10 Git/_Index_of_10 Git|_Index_of_10 Git]]
  [[20 FE/_Index_of_20 FE|_Index_of_20 FE]]
+ [[99 Seminar/_Index_of_99 Seminar|_Index_of_99 Seminar]]
  [[Attachments/_Index_of_Attachments|_Index_of_Attachments]]
  [[attachments%2FPasted image 20231011055310.png|attachments%2FPasted image 20231011055310.png]]
  [[README|README]]
