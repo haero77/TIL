@@ -207,7 +207,7 @@ public @interface LogResponseBody {
 }
 ```
 
-`@LogResponseBody` 의 구현은 `@LogRequestBody` 보다 더 간단합니다. 애노테이션을 적용할 애스펙트를 만들어보죠.
+`@LogResponseBody` 의 구현은 `@LogRequestBody` 보다 더 간단합니다. 애노테이션을 위처럼 구성하고, 해당 애노테이션을 사용하기 위한 애스펙트를 만들어보겠습니다.
 
 <br>
 
@@ -240,12 +240,9 @@ public class LogResponseBodyAspect {
 }
 ```
 
-`LogRequestBodyAspect`처럼, `@within`과 `@annotation` 포인트컷 지시자를 이용하여 조인 포인트를 좁혀줍니다. 타겟은 `@LogResponseBody` 애노테이션을 가진 클래스에 속하는 메서드 또는 해당 애노테이션을 가진 메서드입니다. 
+`LogRequestBodyAspect`처럼, `@within`과 `@annotation` 포인트컷 지시자를 이용하여 조인 포인트를 좁혀줍니다. 타겟은 `@LogResponseBody` 애노테이션을 가진 클래스에 속하는 메서드 또는 해당 애노테이션을 가진 메서드입니다.
 
 어드바이스 종류는 `@AfterReturning`를 택했습니다. 타겟이 정상적으로 호출되고 나서,
-
-
-
 <br>
 ### 적용 결과
 
