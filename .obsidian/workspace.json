@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 클린 코드/좋은 코드, 나쁜 코드/ch02. 추상화 계층.md",
+                "file": "03 Test Code/실용적인 테스트 가이드 by 우빈님/7. 더 나은 테스트를 작성하기 위한 구체적 조언.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,31 @@
                 "file": "00 Posting/테스트 코드/attachments/Pasted image 20231119221515.png"
               }
             }
+          },
+          {
+            "id": "5dca7862a2558901",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
+            "id": "0a3b3a1e07aaa322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Posting/JPA/JPA 와 동적 프록시.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -99,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5026054382324
+    "width": 304.5026054382324
   },
   "right": {
     "id": "30291508a6475a0c",
@@ -115,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 클린 코드/좋은 코드, 나쁜 코드/ch02. 추상화 계층.md",
+                "file": "00 Posting/JPA/JPA 와 동적 프록시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 클린 코드/좋은 코드, 나쁜 코드/ch02. 추상화 계층.md",
+                "file": "00 Posting/JPA/JPA 와 동적 프록시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 클린 코드/좋은 코드, 나쁜 코드/ch02. 추상화 계층.md"
+                "file": "00 Posting/JPA/JPA 와 동적 프록시.md"
               }
             }
           }
@@ -177,12 +200,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8ef2a2a89cf8b45c",
+  "active": "0a3b3a1e07aaa322",
   "lastOpenFiles": [
+    "무제 파일.md",
+    "00 Posting/JPA/JPA 와 동적 프록시.md",
+    "03 Test Code/실용적인 테스트 가이드 by 우빈님/7. 더 나은 테스트를 작성하기 위한 구체적 조언.md",
+    "00 Posting/회고/5개월차 서버 개발자 회고(feat. 테스트의 서막).md",
+    "00 Posting/Spring/AOP를 이용하여 로깅용 애노테이션 만들어보기.md",
+    "00 Posting/Spring/@RequestBody 를 사용할 때 일어나는 역직렬화 과정 파헤치기.md",
+    "00 Posting/회고/attachments/Pasted image 20231219175553.png",
+    "00 Posting/회고/attachments",
+    "00 Posting/회고/_Index_of_회고.md",
+    "06 클린 코드/좋은 코드, 나쁜 코드/ch02. 추상화 계층.md",
+    "00 Posting/회고",
     "06 클린 코드/_Index_of_06 클린 코드.md",
     "06 클린 코드/좋은 코드, 나쁜 코드/_Index_of_좋은 코드, 나쁜 코드.md",
     "00 Shoveling/QClass Import 안 되는 문제 (Gradle build 랑 IntelliJ build 랑 build 파일 위치가 다르다.).md",
-    "06 클린 코드/좋은 코드, 나쁜 코드/ch02. 추상화 계층.md",
     "06 클린 코드/좋은 코드, 나쁜 코드",
     "06 클린 코드",
     "00 Shoveling/attachments/Pasted image 20231216190409.png",
@@ -206,24 +239,14 @@
     "04 Spring/호돌맨의 요절복통 개발쇼/S1. 요절복통 블로그 API 만들기 기본/_Index_of_S1. 요절복통 블로그 API 만들기 기본.md",
     "04 Spring/무제 파일.md",
     "04 Spring/호돌맨의 요절복통 개발쇼/S1. 요절복통 블로그 API 만들기 기본",
-    "03 Test Code/실용적인 테스트 가이드 by 우빈님/7. 더 나은 테스트를 작성하기 위한 구체적 조언.md",
     "03 Test Code/실용적인 테스트 가이드 by 우빈님/attachments/Pasted image 20231209234526.png",
-    "00 Posting/Spring/AOP를 이용하여 로깅용 애노테이션 만들어보기.md",
     "00 Posting/Spring/JSON 필드로 boolean 타입이 적절치 않다고 생각 한 이유.md",
     "04 Spring/스프링 고급편/09. 스프링 AOP 개념.md",
-    "03 Test Code/실용적인 테스트 가이드 by 우빈님/attachments/Pasted image 20231209183506.png",
     "03 Test Code/실용적인 테스트 가이드 by 우빈님/attachments",
     "03 Test Code/실용적인 테스트 가이드 by 우빈님/6. Mock을 마주하는 자세.md",
     "03 Test Code/실용적인 테스트 가이드 by 우빈님/_Index_of_실용적인 테스트 가이드 by 우빈님.md",
     "03 Test Code/실용적인 테스트 가이드 by 우빈님",
     "03 Test Code/우빈님 Practical Testing.md",
-    "03 Test Code/TDD_테스트 주도 개발 시작하기 (범균님)/ch02 TDD 시작.md",
-    "03 Test Code/TDD_테스트 주도 개발 시작하기 (범균님)/attachments",
-    "03 Test Code/TDD_테스트 주도 개발 시작하기 (범균님)/_Index_of_TDD_테스트 주도 개발 시작하기 (범균님).md",
-    "03 Test Code/TDD_테스트 주도 개발 시작하기 (범균님)",
-    "02 OOP/객체 지향의 사실과 오해/ch02. 이상한 나라의 객체.md",
-    "99 Seminar/테스트 코드/박재성 - 190425 TDD 리팩토링.md",
-    "02 OOP/객체 지향의 사실과 오해/ch04. 역할, 책임, 협력.md",
-    "04 Spring/스프링 고급편/무제 파일.md"
+    "03 Test Code/TDD_테스트 주도 개발 시작하기 (범균님)/ch02 TDD 시작.md"
   ]
 }

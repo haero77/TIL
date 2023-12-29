@@ -4,6 +4,7 @@
  [[00 Posting/디자인 패턴/_Index_of_디자인 패턴|_Index_of_디자인 패턴]]
  [[00 Posting/아키텍처/_Index_of_아키텍처|_Index_of_아키텍처]]
  [[00 Posting/테스트 코드/_Index_of_테스트 코드|_Index_of_테스트 코드]]
+ [[00 Posting/회고/_Index_of_회고|_Index_of_회고]]
  [[00 Posting/후기/_Index_of_후기|_Index_of_후기]]
  [[00 Posting/Java/_Index_of_Java|_Index_of_Java]]
  [[00 Posting/JPA/_Index_of_JPA|_Index_of_JPA]]

@@ -7,6 +7,7 @@
  [[03 Test Code/_Index_of_03 Test Code|_Index_of_03 Test Code]]
  [[04 Spring/_Index_of_04 Spring|_Index_of_04 Spring]]
  [[05 JPA/_Index_of_05 JPA|_Index_of_05 JPA]]
+ [[06 클린 코드/_Index_of_06 클린 코드|_Index_of_06 클린 코드]]
  [[10 Git/_Index_of_10 Git|_Index_of_10 Git]]
  [[20 FE/_Index_of_20 FE|_Index_of_20 FE]]
  [[99 Seminar/_Index_of_99 Seminar|_Index_of_99 Seminar]]
