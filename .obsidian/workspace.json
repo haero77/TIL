@@ -4,75 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "113881f3f1a8478a",
+        "id": "6602b4de2f642e17",
         "type": "tabs",
         "children": [
           {
-            "id": "8ef2a2a89cf8b45c",
+            "id": "7ee7bafbde85d328",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Test Code/실용적인 테스트 가이드 by 우빈님/7. 더 나은 테스트를 작성하기 위한 구체적 조언.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0b03158a6fa629b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "00 Posting/테스트 코드/attachments/Pasted image 20231119182931.png"
-              }
-            }
-          },
-          {
-            "id": "ec6791f44dff45df",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "00 Posting/테스트 코드/attachments/Pasted image 20231119221515.png"
-              }
-            }
-          },
-          {
-            "id": "af5206443e44df01",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "00 Posting/테스트 코드/attachments/Pasted image 20231119221515.png"
-              }
-            }
-          },
-          {
-            "id": "5dca7862a2558901",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
-            "id": "0a3b3a1e07aaa322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Posting/JPA/JPA 와 동적 프록시.md",
+                "file": "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2. API Gateway란?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5026054382324
+    "width": 325.51103591918945
   },
   "right": {
     "id": "30291508a6475a0c",
@@ -138,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Posting/JPA/JPA 와 동적 프록시.md",
+                "file": "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2. API Gateway란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Posting/JPA/JPA 와 동적 프록시.md",
+                "file": "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2. API Gateway란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Posting/JPA/JPA 와 동적 프록시.md"
+                "file": "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2. API Gateway란?.md"
               }
             }
           }
@@ -200,9 +147,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0a3b3a1e07aaa322",
+  "active": "7ee7bafbde85d328",
   "lastOpenFiles": [
-    "무제 파일.md",
+    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240106185613.png",
+    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240106185138.png",
+    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240106184309.png",
+    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240106184227.png",
+    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240106184034.png",
+    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240106184004.png",
+    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments",
+    "04 Spring/Spring Cloud로 개발하는 MSA/_Index_of_Spring Cloud로 개발하는 MSA.md",
+    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/_Index_of_2. API Gateway Service.md",
+    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2. API Gateway란?.md",
+    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service",
+    "04 Spring/Spring Cloud로 개발하는 MSA/0. Microservice와 Spring Cloud의 소개",
+    "04 Spring/Spring Cloud로 개발하는 MSA",
+    "00 TIL/24.01.01 월.md",
+    "00 TIL/23.10.26 목 - JSON 으로 저장 시 getter 때문에 에러가 발생.md",
     "00 Posting/JPA/JPA 와 동적 프록시.md",
     "03 Test Code/실용적인 테스트 가이드 by 우빈님/7. 더 나은 테스트를 작성하기 위한 구체적 조언.md",
     "00 Posting/회고/5개월차 서버 개발자 회고(feat. 테스트의 서막).md",
@@ -222,31 +183,17 @@
     "00 Shoveling/attachments/Pasted image 20231216190214.png",
     "00 Shoveling/attachments/Pasted image 20231216190143.png",
     "00 Shoveling/attachments/Pasted image 20231216185516.png",
-    "00 Shoveling/attachments/Pasted image 20231213211611.png",
-    "00 Shoveling/attachments/Pasted image 20231213211411.png",
-    "00 Shoveling/attachments/Pasted image 20231213211252.png",
-    "00 Shoveling/attachments/Pasted image 20231213211051.png",
     "00 Shoveling/attachments",
     "00 Shoveling/_Index_of_00 Shoveling.md",
     "00 Shoveling/_Index_of_00 Shovel.md",
     "00 Shoveling/_Index_of_00 삽질.md",
-    "00 TIL/23.10.26 목 - JSON 으로 저장 시 getter 때문에 에러가 발생.md",
     "00 Shoveling",
-    "00 TIL/무제 폴더",
     "00 TIL/23.10.13 금 - 패키지 구조를 뜯어 고치다.md",
     "04 Spring/호돌맨의 요절복통 개발쇼/S1. 요절복통 블로그 API 만들기 기본/게시글 조회.md",
     "04 Spring/호돌맨의 요절복통 개발쇼/_Index_of_호돌맨의 요절복통 개발쇼.md",
     "04 Spring/호돌맨의 요절복통 개발쇼/S1. 요절복통 블로그 API 만들기 기본/_Index_of_S1. 요절복통 블로그 API 만들기 기본.md",
     "04 Spring/무제 파일.md",
-    "04 Spring/호돌맨의 요절복통 개발쇼/S1. 요절복통 블로그 API 만들기 기본",
-    "03 Test Code/실용적인 테스트 가이드 by 우빈님/attachments/Pasted image 20231209234526.png",
     "00 Posting/Spring/JSON 필드로 boolean 타입이 적절치 않다고 생각 한 이유.md",
-    "04 Spring/스프링 고급편/09. 스프링 AOP 개념.md",
-    "03 Test Code/실용적인 테스트 가이드 by 우빈님/attachments",
-    "03 Test Code/실용적인 테스트 가이드 by 우빈님/6. Mock을 마주하는 자세.md",
-    "03 Test Code/실용적인 테스트 가이드 by 우빈님/_Index_of_실용적인 테스트 가이드 by 우빈님.md",
-    "03 Test Code/실용적인 테스트 가이드 by 우빈님",
-    "03 Test Code/우빈님 Practical Testing.md",
-    "03 Test Code/TDD_테스트 주도 개발 시작하기 (범균님)/ch02 TDD 시작.md"
+    "04 Spring/스프링 고급편/09. 스프링 AOP 개념.md"
   ]
 }

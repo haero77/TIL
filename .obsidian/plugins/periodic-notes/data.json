@@ -3,7 +3,7 @@
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "YY.MM.DD ddd - ",
+    "format": "YY.MM.DD ddd",
     "template": "",
     "folder": "00 TIL",
     "enabled": true
