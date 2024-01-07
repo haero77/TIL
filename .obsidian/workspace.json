@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.7~2.9 Spring Cloud Gateway - Filter 적용 (Java code).md",
+                "file": "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.10~2.11 Spring Cloud Gateway - Custom Filter 적용.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.7~2.9 Spring Cloud Gateway - Filter 적용 (Java code).md",
+                "file": "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.10~2.11 Spring Cloud Gateway - Custom Filter 적용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.7~2.9 Spring Cloud Gateway - Filter 적용 (Java code).md",
+                "file": "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.10~2.11 Spring Cloud Gateway - Custom Filter 적용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.7~2.9 Spring Cloud Gateway - Filter 적용 (Java code).md"
+                "file": "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.10~2.11 Spring Cloud Gateway - Custom Filter 적용.md"
               }
             }
           }
@@ -149,21 +149,21 @@
   },
   "active": "cc8b8e9c94329fb0",
   "lastOpenFiles": [
+    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.7~2.9 Spring Cloud Gateway - Filter 적용 (Java code).md",
+    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.10~2.11 Spring Cloud Gateway - Custom Filter 적용.md",
+    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107173526.png",
+    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107164300.png",
+    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107164204.png",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107145724.png",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107145557.png",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107145522.png",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.6 Spring Cloud Gateway - 프로젝트 생성.md",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.5 Spring Cloud Gateway란?.md",
-    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.7~2.9 Spring Cloud Gateway - Filter 적용 (Java code).md",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107144547.png",
     "04 Spring/Spring Cloud로 개발하는 MSA/_Index_of_Spring Cloud로 개발하는 MSA.md",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107131750 1.png",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107131750.png",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107131749 1.png",
-    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107131749.png",
-    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107131745.png",
-    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107131744.png",
-    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107131724.png",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2. API Gateway란?.md",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/_Index_of_2. API Gateway Service.md",
@@ -193,7 +193,6 @@
     "00 Shoveling",
     "00 TIL/23.10.13 금 - 패키지 구조를 뜯어 고치다.md",
     "04 Spring/호돌맨의 요절복통 개발쇼/S1. 요절복통 블로그 API 만들기 기본/게시글 조회.md",
-    "04 Spring/호돌맨의 요절복통 개발쇼/_Index_of_호돌맨의 요절복통 개발쇼.md",
-    "04 Spring/호돌맨의 요절복통 개발쇼/S1. 요절복통 블로그 API 만들기 기본/_Index_of_S1. 요절복통 블로그 API 만들기 기본.md"
+    "04 Spring/호돌맨의 요절복통 개발쇼/_Index_of_호돌맨의 요절복통 개발쇼.md"
   ]
 }
