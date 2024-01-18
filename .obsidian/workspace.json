@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.13 Spring Cloud Gateway - LoggingFilter.md",
+                "file": "02 OOP/오브젝트/ch01 객체, 설계/01-02. 무엇이 문제인가.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.13 Spring Cloud Gateway - LoggingFilter.md",
+                "file": "02 OOP/오브젝트/ch01 객체, 설계/01-02. 무엇이 문제인가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.13 Spring Cloud Gateway - LoggingFilter.md",
+                "file": "02 OOP/오브젝트/ch01 객체, 설계/01-02. 무엇이 문제인가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.13 Spring Cloud Gateway - LoggingFilter.md"
+                "file": "02 OOP/오브젝트/ch01 객체, 설계/01-02. 무엇이 문제인가.md"
               }
             }
           }
@@ -149,8 +149,19 @@
   },
   "active": "cc8b8e9c94329fb0",
   "lastOpenFiles": [
-    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.12 Spring Cloud Gateway - Global Filter.md",
+    "02 OOP/오브젝트/_Index_of_오브젝트.md",
+    "02 OOP/오브젝트/ch01 객체, 설계/_Index_of_ch01 객체, 설계.md",
+    "00 TIL/회고/Weekly KPT/(W2) 24년 1월 2주차 KPT - 하면 되더라.md",
+    "02 OOP/오브젝트/ch01 객체, 설계/01-02. 무엇이 문제인가.md",
+    "02 OOP/오브젝트/ch01 객체, 설계",
+    "02 OOP/오브젝트",
+    "00 TIL/회고/Montly KPT",
+    "00 TIL/회고/_Index_of_회고.md",
+    "00 TIL/회고/Weekly KPT/_Index_of_Weekly KPT.md",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.13 Spring Cloud Gateway - LoggingFilter.md",
+    "00 TIL/회고/Weekly KPT",
+    "00 TIL/회고",
+    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.12 Spring Cloud Gateway - Global Filter.md",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107184041.png",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107184037.png",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107184003.png",
@@ -182,17 +193,7 @@
     "00 Posting/회고/attachments",
     "00 Posting/회고/_Index_of_회고.md",
     "06 클린 코드/좋은 코드, 나쁜 코드/ch02. 추상화 계층.md",
-    "00 Posting/회고",
     "06 클린 코드/_Index_of_06 클린 코드.md",
-    "06 클린 코드/좋은 코드, 나쁜 코드/_Index_of_좋은 코드, 나쁜 코드.md",
-    "00 Shoveling/QClass Import 안 되는 문제 (Gradle build 랑 IntelliJ build 랑 build 파일 위치가 다르다.).md",
-    "06 클린 코드/좋은 코드, 나쁜 코드",
-    "06 클린 코드",
-    "00 Shoveling/attachments",
-    "00 Shoveling/_Index_of_00 Shoveling.md",
-    "00 Shoveling/_Index_of_00 Shovel.md",
-    "00 Shoveling/_Index_of_00 삽질.md",
-    "00 Shoveling",
-    "00 TIL/23.10.13 금 - 패키지 구조를 뜯어 고치다.md"
+    "06 클린 코드/좋은 코드, 나쁜 코드/_Index_of_좋은 코드, 나쁜 코드.md"
   ]
 }
