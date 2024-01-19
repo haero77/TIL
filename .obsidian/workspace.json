@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 OOP/오브젝트/ch01 객체, 설계/01-02. 무엇이 문제인가.md",
+                "file": "02 OOP/오브젝트/ch01 객체, 설계/01-03. 설계 개선하기.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "4e993be0e0c66373",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "02 OOP/오브젝트/ch01 객체, 설계/attachments/Pasted image 20240120071013.png"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 OOP/오브젝트/ch01 객체, 설계/01-02. 무엇이 문제인가.md",
+                "file": "02 OOP/오브젝트/ch01 객체, 설계/01-03. 설계 개선하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 OOP/오브젝트/ch01 객체, 설계/01-02. 무엇이 문제인가.md",
+                "file": "02 OOP/오브젝트/ch01 객체, 설계/01-03. 설계 개선하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 OOP/오브젝트/ch01 객체, 설계/01-02. 무엇이 문제인가.md"
+                "file": "02 OOP/오브젝트/ch01 객체, 설계/01-03. 설계 개선하기.md"
               }
             }
           }
@@ -149,10 +159,15 @@
   },
   "active": "cc8b8e9c94329fb0",
   "lastOpenFiles": [
+    "02 OOP/오브젝트/ch01 객체, 설계/01-02. 무엇이 문제인가.md",
+    "02 OOP/오브젝트/ch01 객체, 설계/01-03. 설계 개선하기.md",
+    "02 OOP/오브젝트/ch01 객체, 설계/attachments/Pasted image 20240120071106.png",
+    "02 OOP/오브젝트/ch01 객체, 설계/attachments/Pasted image 20240120071013.png",
+    "02 OOP/오브젝트/ch01 객체, 설계/attachments",
+    "02 OOP/_Index_of_02 OOP.md",
     "02 OOP/오브젝트/_Index_of_오브젝트.md",
     "02 OOP/오브젝트/ch01 객체, 설계/_Index_of_ch01 객체, 설계.md",
     "00 TIL/회고/Weekly KPT/(W2) 24년 1월 2주차 KPT - 하면 되더라.md",
-    "02 OOP/오브젝트/ch01 객체, 설계/01-02. 무엇이 문제인가.md",
     "02 OOP/오브젝트/ch01 객체, 설계",
     "02 OOP/오브젝트",
     "00 TIL/회고/Montly KPT",
@@ -172,8 +187,6 @@
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107174151.png",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.10~2.11 Spring Cloud Gateway - Custom Filter 적용.md",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.7~2.9 Spring Cloud Gateway - Filter 적용 (Java code).md",
-    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107173526.png",
-    "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/attachments/Pasted image 20240107164300.png",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.6 Spring Cloud Gateway - 프로젝트 생성.md",
     "04 Spring/Spring Cloud로 개발하는 MSA/2. API Gateway Service/2.5 Spring Cloud Gateway란?.md",
     "04 Spring/Spring Cloud로 개발하는 MSA/_Index_of_Spring Cloud로 개발하는 MSA.md",
@@ -190,10 +203,6 @@
     "00 Posting/회고/5개월차 서버 개발자 회고(feat. 테스트의 서막).md",
     "00 Posting/Spring/AOP를 이용하여 로깅용 애노테이션 만들어보기.md",
     "00 Posting/Spring/@RequestBody 를 사용할 때 일어나는 역직렬화 과정 파헤치기.md",
-    "00 Posting/회고/attachments",
-    "00 Posting/회고/_Index_of_회고.md",
-    "06 클린 코드/좋은 코드, 나쁜 코드/ch02. 추상화 계층.md",
-    "06 클린 코드/_Index_of_06 클린 코드.md",
-    "06 클린 코드/좋은 코드, 나쁜 코드/_Index_of_좋은 코드, 나쁜 코드.md"
+    "00 Posting/회고/_Index_of_회고.md"
   ]
 }
